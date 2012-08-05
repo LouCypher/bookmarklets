@@ -1,0 +1,4 @@
+bookmarklets
+============
+
+Browser bookmarklets
